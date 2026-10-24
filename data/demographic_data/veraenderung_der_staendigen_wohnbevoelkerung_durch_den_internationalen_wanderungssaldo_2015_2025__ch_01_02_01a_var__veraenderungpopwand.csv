@@ -1,0 +1,2116 @@
+﻿gemeinde_bfs,gemeinde_name,wert,raumebene_id,gemeindestand,dataset_id,indikator_id
+1,Aeugst am Albis,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+10,Obfelden,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+100,Stadel,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1001,Doppleschwand,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1002,Entlebuch,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1004,Flühli,12.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1005,Hasle (LU),4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1007,Romoos,-1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1008,Schüpfheim,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1009,Werthenstein,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+101,Steinmaur,11.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1010,Escholzmatt-Marbach,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+102,Weiach,9.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1021,Aesch (LU),7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1023,Ballwil,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1024,Emmen,11.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1025,Ermensee,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1026,Eschenbach (LU),1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1030,Hitzkirch,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1031,Hochdorf,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1032,Hohenrain,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1033,Inwil,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1037,Rain,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1039,Römerswil,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1040,Rothenburg,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1041,Schongau,0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1051,Adligenswil,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1052,Buchrain,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1053,Dierikon,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1054,Ebikon,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1055,Gisikon,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1056,Greppen,7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1058,Horw,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1059,Kriens,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1061,Luzern,10.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1062,Malters,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1063,Meggen,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1064,Meierskappel,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1065,Root,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1066,Schwarzenberg,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1067,Udligenswil,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1068,Vitznau,17.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1069,Weggis,15.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1081,Beromünster,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1082,Büron,8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1083,Buttisholz,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1084,Eich,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1085,Geuensee,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1086,Grosswangen,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1088,Hildisrieden,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1089,Knutwil,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1091,Mauensee,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1093,Neuenkirch,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1094,Nottwil,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1095,Oberkirch,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1097,Rickenbach (LU),5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1098,Ruswil,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1099,Schenkon,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+11,Ottenbach,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1100,Schlierbach,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1102,Sempach,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1103,Sursee,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1104,Triengen,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1107,Wolhusen,10.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+111,Bäretswil,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+112,Bubikon,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1121,Alberswil,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1122,Altbüron,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1123,Altishofen,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1125,Dagmersellen,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1127,Egolzwil,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1128,Ettiswil,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1129,Fischbach,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+113,Dürnten,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1131,Grossdietwil,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1132,Hergiswil bei Willisau,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1135,Luthern,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1136,Menznau,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1137,Nebikon,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1139,Pfaffnau,14.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+114,Fischenthal,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1140,Reiden,9.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1142,Roggliswil,-1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1143,Schötz,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1145,Ufhusen,-1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1146,Wauwil,10.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1147,Wikon,17.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+115,Gossau (ZH),3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1150,Zell (LU),3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1151,Willisau,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+116,Grüningen,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+117,Hinwil,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+118,Rüti (ZH),6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+119,Seegräben,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+12,Rifferswil,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+120,Wald (ZH),7.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1201,Altdorf (UR),9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1202,Andermatt,22.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1203,Attinghausen,-0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1205,Bürglen (UR),1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1206,Erstfeld,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1207,Flüelen,9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1208,Göschenen,55.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1209,Gurtnellen,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+121,Wetzikon (ZH),6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1210,Hospental,13.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1211,Isenthal,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1212,Realp,53.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1213,Schattdorf,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1214,Seedorf (UR),5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1215,Seelisberg,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1216,Silenen,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1217,Sisikon,13,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1218,Spiringen,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1219,Unterschächen,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1220,Wassen,9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+13,Stallikon,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1301,Einsiedeln,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+131,Adliswil,9.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1311,Gersau,9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1321,Feusisberg,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1322,Freienbach,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1323,Wollerau,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1331,Küssnacht (SZ),6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1341,Altendorf,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1342,Galgenen,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1343,Innerthal,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1344,Lachen,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1345,Reichenburg,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1346,Schübelbach,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1347,Tuggen,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1348,Vorderthal,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1349,Wangen (SZ),3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+135,Kilchberg (ZH),7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+136,Langnau am Albis,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1361,Alpthal,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1362,Arth,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1363,Illgau,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1364,Ingenbohl,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1365,Lauerz,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1366,Morschach,68.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1367,Muotathal,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1368,Oberiberg,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1369,Riemenstalden,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+137,Oberrieden,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1370,Rothenthurm,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1371,Sattel,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1372,Schwyz,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1373,Steinen,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1374,Steinerberg,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1375,Unteriberg,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+138,Richterswil,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+139,Rüschlikon,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+14,Wettswil am Albis,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1401,Alpnach,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1402,Engelberg,19.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1403,Giswil,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1404,Kerns,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1405,Lungern,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1406,Sachseln,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1407,Sarnen,8.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+141,Thalwil,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1501,Beckenried,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1502,Buochs,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1503,Dallenwil,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1504,Emmetten,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1505,Ennetbürgen,13.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1506,Ennetmoos,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1507,Hergiswil (NW),7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1508,Oberdorf (NW),3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1509,Stans,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+151,Erlenbach (ZH),6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1510,Stansstad,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1511,Wolfenschiessen,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+152,Herrliberg,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+153,Hombrechtikon,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+154,Küsnacht (ZH),5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+155,Männedorf,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+156,Meilen,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+157,Oetwil am See,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+158,Stäfa,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+159,Uetikon am See,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+160,Zumikon,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+161,Zollikon,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1630,Glarus Nord,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1631,Glarus Süd,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1632,Glarus,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1701,Baar,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1702,Cham,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1703,Hünenberg,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1704,Menzingen,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1705,Neuheim,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1706,Oberägeri,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1707,Risch,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1708,Steinhausen,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1709,Unterägeri,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1710,Walchwil,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+1711,Zug,18.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+172,Fehraltorf,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+173,Hittnau,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+176,Lindau,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+177,Pfäffikon,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+178,Russikon,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+180,Weisslingen,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+181,Wila,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+182,Wildberg,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+191,Dübendorf,14.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+192,Egg,7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+193,Fällanden,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+194,Greifensee,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+195,Maur,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+196,Mönchaltorf,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+197,Schwerzenbach,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+198,Uster,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+199,Volketswil,7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2,Affoltern am Albis,12.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+200,Wangen-Brüttisellen,11.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2008,Châtillon (FR),0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2011,Cugy (FR),4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2016,Fétigny,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2022,Gletterens,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2025,Lully (FR),2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2027,Ménières,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2029,Montagny (FR),5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2035,Nuvilly,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2038,Prévondavaux,16.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2041,Saint-Aubin (FR),1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2043,Sévaz,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2044,Surpierre,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2045,Vallon,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2050,Les Montets,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2051,Delley-Portalban,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2053,Belmont-Broye,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2054,Estavayer,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2055,Cheyres-Châbles,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2063,Billens-Hennens,14.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2067,Le Châtelard,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2068,Châtonnaye,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2079,Grangettes,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2086,Massonnens,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2087,Mézières (FR),4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2096,Romont (FR),12.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2097,Rue,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2099,Siviriez,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2102,Ursy,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+211,Altikon,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2113,Vuisternens-devant-Romont,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2114,Villorsonnens,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2115,Torny,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2117,Villaz,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2121,Haut-Intyamon,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2122,Pont-en-Ogoz,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2123,Botterens,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2124,Broc,21.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2125,Bulle,0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2128,Châtel-sur-Montsalvens,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2129,Corbières,0.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+213,Brütten,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2130,Crésuz,7.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2131,Echarlens,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2134,Grandvillard,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2135,Gruyères,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2137,Hauteville,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2138,Jaun,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+214,Dägerlen,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2140,Marsens,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2143,Morlon,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2145,Le Pâquier (FR),3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2147,Pont-la-Ville,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2148,Riaz,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2149,La Roche,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+215,Dättlikon,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2152,Sâles,-0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2153,Sorens,-0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2155,Vaulruz,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+216,Dinhard,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2160,Vuadens,11.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2162,Bas-Intyamon,18.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2163,Val-de-Charmey,9.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2173,Autigny,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2174,Avry,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2175,Belfaux,9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2177,Chénens,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+218,Ellikon an der Thur,9.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2183,Corminboeuf,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2186,Cottens (FR),3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+219,Elsau,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2194,Ferpicloz,-0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2196,Fribourg,11,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2197,Givisiez,10.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2198,Granges-Paccot,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+22,Benken (ZH),3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+220,Hagenbuch,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2206,Marly,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2208,Matran,38.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+221,Hettlingen,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2211,Neyruz (FR),2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2216,Pierrafortscha,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2220,Le Mouret,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2226,Treyvaux,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2228,Villars-sur-Glâne,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+223,Neftenbach,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2230,Villarsel-sur-Marly,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2233,Hauterive (FR),6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2234,La Brillaz,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2235,La Sonnaz,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2236,Gibloux,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2237,Prez,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2238,Bois-d'Amont,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2239,Grolley-Ponthaux,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+224,Pfungen,7.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+225,Rickenbach (ZH),2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2250,Courgevaux,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2254,Courtepin,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2257,Cressier (FR),-3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2258,Fräschels,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+226,Schlatt (ZH),0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2261,Greng,-5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2262,Gurmels,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2265,Kerzers,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2266,Kleinbösingen,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+227,Seuzach,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2271,Meyriez,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2272,Misery-Courtion,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2274,Muntelier,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2275,Murten,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2276,Ried bei Kerzers,18.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2278,Ulmiz,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+228,Turbenthal,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2284,Mont-Vully,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2292,Brünisried,-1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2293,Düdingen,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2294,Giffers,17.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2295,Bösingen,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2296,Heitenried,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2299,Plaffeien,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+23,Berg am Irchel,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+230,Winterthur,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2300,Plasselb,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2301,Rechthalten,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2303,St. Silvester,0.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2304,St. Ursen,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2305,Schmitten (FR),3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2306,Tafers,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2307,Tentlingen,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2308,Ueberstorf,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2309,Wünnewil-Flamatt,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+231,Zell (ZH),13.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2321,Attalens,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2323,Bossonnens,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2325,Châtel-Saint-Denis,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2328,Granges (Veveyse),-0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2333,Remaufens,-1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2335,Saint-Martin (FR),1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2336,Semsales,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2337,Le Flon,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2338,La Verrerie,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+24,Buch am Irchel,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2401,Egerkingen,20.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2402,Härkingen,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2403,Kestenholz,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2404,Neuendorf,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2405,Niederbuchsiten,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2406,Oberbuchsiten,16.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2407,Oensingen,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2408,Wolfwil,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+241,Aesch (ZH),6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+242,Birmensdorf (ZH),8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2421,Aedermannsdorf,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2422,Balsthal,10,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2424,Herbetswil,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2425,Holderbank (SO),9.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2426,Laupersdorf,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2427,Matzendorf,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2428,Mümliswil-Ramiswil,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+243,Dietikon,11.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2430,Welschenrohr-Gänsbrunnen,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+244,Geroldswil,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2445,Biezwil,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+245,Oberengstringen,10.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2455,Lüterkofen-Ichertswil,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2457,Messen,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+246,Oetwil an der Limmat,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2461,Schnottwil,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2463,Unterramsern,-1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2464,Lüsslingen-Nennigkofen,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2465,Buchegg,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+247,Schlieren,10.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2471,Bättwil,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2472,Büren (SO),2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2473,Dornach,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2474,Gempen,-0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2475,Hochwald,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2476,Hofstetten-Flüh,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2477,Metzerlen-Mariastein,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2478,Nuglar-St. Pantaleon,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2479,Rodersdorf,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+248,Uitikon,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2480,Seewen,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2481,Witterswil,-0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+249,Unterengstringen,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2491,Hauenstein-Ifenthal,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2492,Kienberg,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2493,Lostorf,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2495,Niedergösgen,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2497,Obergösgen,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2499,Stüsslingen,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+25,Dachsen,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+250,Urdorf,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2500,Trimbach,11.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2501,Winznau,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2502,Wisen (SO),0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2503,Erlinsbach (SO),4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+251,Weiningen (ZH),7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2511,Aeschi (SO),2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2513,Biberist,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2514,Bolken,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2516,Deitingen,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2517,Derendingen,7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2518,Etziken,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2519,Gerlafingen,8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2520,Halten,-1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2523,Horriwil,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2524,Hüniken,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2525,Kriegstetten,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2526,Lohn-Ammannsegg,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2527,Luterbach,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2528,Obergerlafingen,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2529,Oekingen,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2530,Recherswil,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2532,Subingen,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2534,Zuchwil,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2535,Drei Höfe,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2541,Balm bei Günsberg,125.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2542,Bellach,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2543,Bettlach,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2544,Feldbrunnen-St. Niklaus,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2545,Flumenthal,34.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2546,Grenchen,11.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2547,Günsberg,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2548,Hubersdorf,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2549,Kammersrohr,9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2550,Langendorf,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2551,Lommiswil,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2553,Oberdorf (SO),3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2554,Riedholz,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2555,Rüttenen,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2556,Selzach,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2571,Boningen,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2572,Däniken,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2573,Dulliken,9.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2574,Eppenberg-Wöschnau,13.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2575,Fulenbach,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2576,Gretzenbach,8.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2578,Gunzgen,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2579,Hägendorf,11,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2580,Kappel (SO),5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2581,Olten,9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2582,Rickenbach (SO),3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2583,Schönenwerd,8.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2584,Starrkirch-Wil,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2585,Walterswil (SO),2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2586,Wangen bei Olten,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+26,Dorf,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2601,Solothurn,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+261,Zürich,17.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2611,Bärschwil,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2612,Beinwil (SO),4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2613,Breitenbach,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2614,Büsserach,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2615,Erschwil,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2616,Fehren,-1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2617,Grindel,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2618,Himmelried,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2619,Kleinlützel,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2620,Meltingen,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2621,Nunningen,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2622,Zullwil,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+27,Feuerthalen,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2701,Basel,16.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2702,Bettingen,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2703,Riehen,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2761,Aesch (BL),5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2762,Allschwil,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2763,Arlesheim,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2764,Biel-Benken,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2765,Binningen,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2766,Birsfelden,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2767,Bottmingen,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2768,Ettingen,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2769,Münchenstein,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2770,Muttenz,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2771,Oberwil (BL),3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2772,Pfeffingen,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2773,Reinach (BL),4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2774,Schönenbuch,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2775,Therwil,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2781,Blauen,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2782,Brislach,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2783,Burg im Leimental,-7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2784,Dittingen,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2785,Duggingen,7.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2786,Grellingen,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2787,Laufen,9.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2788,Liesberg,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2789,Nenzlingen,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2790,Roggenburg,-2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2791,Röschenz,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2792,Wahlen,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2793,Zwingen,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+28,Flaach,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2821,Arisdorf,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2822,Augst,12.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2823,Bubendorf,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2824,Frenkendorf,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2825,Füllinsdorf,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2826,Giebenach,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2827,Hersberg,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2828,Lausen,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2829,Liestal,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2830,Lupsingen,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2831,Pratteln,7.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2832,Ramlinsburg,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2833,Seltisberg,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2834,Ziefen,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2841,Anwil,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2842,Böckten,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2843,Buckten,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2844,Buus,9.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2845,Diepflingen,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2846,Gelterkinden,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2847,Häfelfingen,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2848,Hemmiken,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2849,Itingen,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2850,Känerkinden,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2851,Kilchberg (BL),13.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2852,Läufelfingen,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2853,Maisprach,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2854,Nusshof,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2855,Oltingen,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2856,Ormalingen,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2857,Rickenbach (BL),3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2858,Rothenfluh,7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2859,Rümlingen,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2860,Rünenberg,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2861,Sissach,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2862,Tecknau,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2863,Tenniken,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2864,Thürnen,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2865,Wenslingen,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2866,Wintersingen,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2867,Wittinsburg,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2868,Zeglingen,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2869,Zunzgen,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2881,Arboldswil,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2882,Bennwil,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2883,Bretzwil,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2884,Diegten,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2885,Eptingen,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2886,Hölstein,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2887,Lampenberg,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2888,Langenbruck,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2889,Lauwil,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2890,Liedertswil,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2891,Niederdorf,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2892,Oberdorf (BL),5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2893,Reigoldswil,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2894,Titterten,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2895,Waldenburg,12,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+29,Flurlingen,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2901,Gächlingen,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2903,Löhningen,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2904,Neunkirch,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+291,Andelfingen,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2914,Büttenhardt,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2915,Dörflingen,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2917,Lohn (SH),0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2919,Stetten (SH),-0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+292,Stammheim,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2920,Thayngen,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+293,Wädenswil,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2931,Bargen (SH),1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2932,Beringen,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2933,Buchberg,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2936,Merishausen,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2937,Neuhausen am Rheinfall,16.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2938,Rüdlingen,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2939,Schaffhausen,9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+294,Elgg,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+295,Horgen,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2951,Beggingen,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2952,Schleitheim,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2953,Siblingen,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+296,Illnau-Effretikon,7.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2961,Buch (SH),61.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2962,Hemishofen,11.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2963,Ramsen,15.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2964,Stein am Rhein,10.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+297,Bauma,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2971,Hallau,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2972,Oberhallau,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2973,Trasadingen,9.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+2974,Wilchingen,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+298,Wiesendangen,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3,Bonstetten,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3001,Herisau,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3002,Hundwil,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3003,Schönengrund,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3004,Schwellbrunn,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3005,Stein (AR),0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3006,Urnäsch,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3007,Waldstatt,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+301,Aarberg,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+302,Bargen (BE),9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3021,Bühler,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3022,Gais,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3023,Speicher,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3024,Teufen (AR),1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3025,Trogen,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+303,Grossaffoltern,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3031,Grub (AR),3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3032,Heiden,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3033,Lutzenberg,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3034,Rehetobel,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3035,Reute (AR),4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3036,Wald (AR),3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3037,Walzenhausen,14.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3038,Wolfhalden,-0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+304,Kallnach,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+305,Kappelen,28,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+306,Lyss,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+307,Meikirch,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+309,Radelfingen,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+31,Henggart,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+310,Rapperswil (BE),2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3101,Appenzell,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3102,Gonten,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3104,Schlatt-Haslen,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+311,Schüpfen,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3111,Oberegg,0.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3112,Schwende-Rüte,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+312,Seedorf (BE),1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3201,Häggenschwil,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3202,Muolen,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3203,St. Gallen,11.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3204,Wittenbach,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+321,Aarwangen,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3211,Berg (SG),5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3212,Eggersriet,26.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3213,Goldach,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3214,Mörschwil,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3215,Rorschach,16.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3216,Rorschacherberg,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3217,Steinach,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3218,Tübach,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3219,Untereggen,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+322,Auswil,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+323,Bannwil,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3231,Au (SG),10.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3232,Balgach,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3233,Berneck,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3234,Diepoldsau,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3235,Rheineck,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3236,St. Margrethen,14.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3237,Thal,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3238,Widnau,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+324,Bleienbach,9.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+325,Busswil bei Melchnau,-1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3251,Altstätten,16.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3252,Eichberg,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3253,Marbach (SG),6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3254,Oberriet (SG),6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3255,Rebstein,10.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3256,Rüthi (SG),8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+326,Gondiswil,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3271,Buchs (SG),14.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3272,Gams,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3273,Grabs,8.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3274,Sennwald,14.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3275,Sevelen,14.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3276,Wartau,11.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+329,Langenthal,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3291,Bad Ragaz,10.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3292,Flums,8.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3293,Mels,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3294,Pfäfers,10.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3295,Quarten,9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3296,Sargans,7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3297,Vilters-Wangs,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3298,Walenstadt,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+33,Kleinandelfingen,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+331,Lotzwil,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3311,Amden,18,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3312,Benken (SG),5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3313,Kaltbrunn,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3315,Schänis,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3316,Weesen,12.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+332,Madiswil,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+333,Melchnau,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3338,Schmerikon,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3339,Uznach,12.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3340,Rapperswil-Jona,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3341,Gommiswald,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3342,Eschenbach (SG),4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+335,Oeschenbach,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3352,Ebnat-Kappel,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3359,Wildhaus-Alt St. Johann,10,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+336,Reisiswil,-1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3360,Nesslau,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+337,Roggwil (BE),5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3374,Lichtensteig,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3379,Wattwil,6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+338,Rohrbach,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+339,Rohrbachgraben,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3392,Kirchberg (SG),9.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3393,Lütisburg,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3394,Mosnang,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3395,Bütschwil-Ganterschwil,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3396,Neckertal,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+34,Laufen-Uhwiesen,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+340,Rütschelen,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3401,Degersheim,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3402,Flawil,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3405,Jonschwil,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3407,Oberuzwil,8.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3408,Uzwil,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+341,Schwarzhäusern,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+342,Thunstetten,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3422,Niederbüren,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3423,Niederhelfenschwil,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3424,Oberbüren,13.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3426,Zuzwil (SG),2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3427,Wil (SG),8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+344,Ursenbach,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3441,Andwil (SG),2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3442,Gaiserwald,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3443,Gossau (SG),3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3444,Waldkirch,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+345,Wynau,12.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+35,Marthalen,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3506,Vaz/Obervaz,13.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+351,Bern,10.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3513,Lantsch/Lenz,8.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3514,Schmitten (GR),9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+352,Bolligen,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+353,Bremgarten bei Bern,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+354,Kirchlindach,9.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3542,Albula/Alvra,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3543,Surses,11.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3544,Bergün Filisur,13.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+355,Köniz,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3551,Brusio,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+356,Muri bei Bern,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3561,Poschiavo,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+357,Oberbalm,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3572,Falera,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3575,Laax,23.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+358,Stettlen,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3581,Sagogn,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3582,Schluein,10.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+359,Vechigen,0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+360,Wohlen bei Bern,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3603,Vals,24.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+361,Zollikofen,7.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3618,Lumnezia,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3619,Ilanz/Glion,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+362,Ittigen,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+363,Ostermundigen,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3633,Fürstenau,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3637,Rothenbrunnen,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3638,Scharans,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3640,Sils im Domleschg,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3661,Cazis,6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3662,Flerden,-1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3663,Masein,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3668,Thusis,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3669,Tschappina,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3670,Urmein,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3672,Safiental,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3673,Domleschg,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3681,Avers,13.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3695,Sufers,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+37,Ossingen,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3701,Andeer,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+371,Biel/Bienne,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3711,Rongellen,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3712,Zillis-Reischen,9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3713,Ferrera,22.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3714,Rheinwald,11.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3715,Muntogna da Schons,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+372,Evilard,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3721,Bonaduz,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3722,Domat/Ems,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3723,Rhäzüns,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3731,Felsberg,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3732,Flims,16.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3733,Tamins,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3734,Trin,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3746,Zernez,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3752,Samnaun,18,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3762,Scuol,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3764,Valsot,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3781,Bever,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3782,Celerina/Schlarigna,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3783,Madulain,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3784,Pontresina,15.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3785,La Punt Chamues-ch,-1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3786,Samedan,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3787,St. Moritz,18.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3788,S-chanf,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3789,Sils im Engadin/Segl,9.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3790,Silvaplana,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3791,Zuoz,24.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3792,Bregaglia,7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+38,Rheinau,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3804,Buseno,-4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3805,Castaneda,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3808,Rossa,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+381,Arch,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3810,Santa Maria in Calanca,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+382,Büetigen,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3821,Lostallo,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3822,Mesocco,9.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3823,Soazza,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+383,Büren an der Aare,9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3831,Cama,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3832,Grono,12.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3834,Roveredo (GR),6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3835,San Vittore,11.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3837,Calanca,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3847,Val Müstair,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+385,Diessbach bei Büren,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3851,Davos,15.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+386,Dotzigen,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3861,Fideris,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3862,Furna,-4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3863,Jenaz,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+387,Lengnau (BE),6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3871,Klosters,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+388,Leuzigen,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3881,Conters im Prättigau,-0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3882,Küblis,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+389,Meienried,11.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3891,Luzein,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+39,Thalheim an der Thur,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+390,Meinisberg,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3901,Chur,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+391,Oberwil bei Büren,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3911,Churwalden,32.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+392,Pieterlen,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3921,Arosa,16.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+393,Rüti bei Büren,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+394,Wengi,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3945,Trimmis,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3946,Untervaz,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3947,Zizers,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3951,Fläsch,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3952,Jenins,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3953,Maienfeld,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3954,Malans,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3955,Landquart,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3961,Grüsch,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3962,Schiers,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3972,Seewis im Prättigau,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3981,Breil/Brigels,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3982,Disentis/Mustér,13,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3983,Medel (Lucmagn),5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3985,Sumvitg,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3986,Tujetsch,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3987,Trun,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+3988,Obersaxen Mundaun,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4,Hausen am Albis,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+40,Trüllikon,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4001,Aarau,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4002,Biberstein,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4003,Buchs (AG),33.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4004,Densbüren,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4005,Erlinsbach (AG),5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4006,Gränichen,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4007,Hirschthal,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4008,Küttigen,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4009,Muhen,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+401,Aefligen,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4010,Oberentfelden,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4012,Suhr,14.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4013,Unterentfelden,10,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+402,Alchenstorf,0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4021,Baden,11.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4022,Bellikon,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4023,Bergdietikon,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4024,Birmenstorf (AG),7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4026,Ennetbaden,7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4027,Fislisbach,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4028,Freienwil,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4029,Gebenstorf,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+403,Bäriswil,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4030,Killwangen,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4031,Künten,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4032,Mägenwil,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4033,Mellingen,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4034,Neuenhof,12.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4035,Niederrohrdorf,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4037,Oberrohrdorf,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4038,Obersiggenthal,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4039,Remetschwil,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+404,Burgdorf,6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4040,Spreitenbach,8.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4041,Stetten (AG),2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4044,Untersiggenthal,12.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4045,Wettingen,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4046,Wohlenschwil,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4047,Würenlingen,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4048,Würenlos,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4049,Ehrendingen,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+405,Ersigen,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+406,Hasle bei Burgdorf,12.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4061,Arni (AG),1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4062,Berikon,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4063,Bremgarten (AG),6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4064,Büttikon,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4065,Dottikon,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4066,Eggenwil,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4067,Fischbach-Göslikon,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4068,Hägglingen,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+407,Heimiswil,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4071,Jonen,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4072,Niederwil (AG),4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4073,Oberlunkhofen,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4074,Oberwil-Lieli,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4075,Rudolfstetten-Friedlisberg,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4076,Sarmenstorf,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4077,Tägerig,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4078,Uezwil,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4079,Unterlunkhofen,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+408,Hellsau,-0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4080,Villmergen,10.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4081,Widen,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4082,Wohlen (AG),12.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4083,Zufikon,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4084,Islisberg,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+409,Hindelbank,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4091,Auenstein,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4092,Birr,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4093,Birrhard,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4095,Brugg,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4099,Habsburg,-0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+41,Truttikon,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+410,Höchstetten,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4100,Hausen (AG),4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4104,Lupfig,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4105,Mandach,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4106,Mönthal,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4107,Mülligen,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+411,Kernenried,-0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4110,Remigen,9.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4111,Riniken,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4112,Rüfenach,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4117,Thalheim (AG),3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+412,Kirchberg (BE),2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4120,Veltheim (AG),7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4121,Villigen,24.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4122,Villnachern,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4123,Windisch,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4124,Bözberg,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4125,Schinznach,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+413,Koppigen,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4131,Beinwil am See,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4132,Birrwil,10.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4134,Dürrenäsch,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4135,Gontenschwil,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4136,Holziken,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4137,Leimbach (AG),4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4138,Leutwil,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4139,Menziken,15.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+414,Krauchthal,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4140,Oberkulm,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4141,Reinach (AG),14.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4142,Schlossrued,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4143,Schmiedrued,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4144,Schöftland,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4145,Teufenthal (AG),8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4146,Unterkulm,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4147,Zetzwil,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+415,Lyssach,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4161,Eiken,9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4163,Frick,10.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4164,Gansingen,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4165,Gipf-Oberfrick,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4169,Kaisten,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4170,Laufenburg,17.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4172,Münchwilen (AG),16.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4173,Oberhof,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4175,Oeschgen,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4176,Schwaderloch,15.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4177,Sisseln,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+418,Oberburg,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4181,Wittnau,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4182,Wölflinswil,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4183,Zeihen,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4184,Mettauertal,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4185,Böztal,11.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4186,Herznach-Ueken,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4191,Ammerswil,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4192,Boniswil,9.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4193,Brunegg,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4194,Dintikon,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4195,Egliswil,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4196,Fahrwangen,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4197,Hallwil,-0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4198,Hendschiken,10.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4199,Holderbank (AG),12.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+420,Rüdtligen-Alchenflüh,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4200,Hunzenschwil,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4201,Lenzburg,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4202,Meisterschwanden,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4203,Möriken-Wildegg,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4204,Niederlenz,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4205,Othmarsingen,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4206,Rupperswil,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4207,Schafisheim,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4208,Seengen,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4209,Seon,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+421,Rumendingen,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4210,Staufen,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+422,Rüti bei Lyssach,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4221,Abtwil,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4222,Aristau,9.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4223,Auw,9.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4224,Beinwil (Freiamt),6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4226,Besenbüren,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4227,Bettwil,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4228,Boswil,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4229,Bünzen,7.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+423,Willadingen,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4230,Buttwil,-1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4231,Dietwil,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4232,Geltwil,10.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4233,Kallern,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4234,Merenschwand,10.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4235,Mühlau,12.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4236,Muri (AG),9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4237,Oberrüti,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4238,Rottenschwil,9.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4239,Sins,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+424,Wynigen,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4240,Waltenschwil,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4251,Hellikon,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4252,Kaiseraugst,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4253,Magden,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4254,Möhlin,6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4255,Mumpf,12,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4256,Obermumpf,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4257,Olsberg,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4258,Rheinfelden,9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4259,Schupfart,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4260,Stein (AG),13.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4261,Wallbach,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4262,Wegenstetten,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4263,Zeiningen,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4264,Zuzgen,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4271,Aarburg,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4273,Bottenwil,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4274,Brittnau,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4275,Kirchleerau,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4276,Kölliken,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4277,Moosleerau,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4279,Murgenthal,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4280,Oftringen,9.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4281,Reitnau,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4282,Rothrist,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4283,Safenwil,8.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4284,Staffelbach,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4285,Strengelbach,7.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4286,Uerkheim,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4287,Vordemwald,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4288,Wiliberg,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4289,Zofingen,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+43,Volken,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4303,Böttstein,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4304,Döttingen,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4305,Endingen,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4306,Fisibach,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4307,Full-Reuenthal,14.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4309,Klingnau,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+431,Corgémont,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4310,Koblenz,19.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4311,Leibstadt,22,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4312,Lengnau (AG),2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4313,Leuggern,11.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4314,Mellikon,-1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4318,Schneisingen,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4319,Siglistorf,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+432,Cormoret,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4320,Tegerfelden,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4324,Zurzach,10.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+433,Cortébert,-0.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+434,Courtelary,-2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+435,La Ferrière,-1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+437,Mont-Tramelan,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+438,Orvin,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4401,Arbon,10.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4406,Dozwil,7.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+441,Renan (BE),-0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4411,Egnach,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4416,Hefenhofen,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+442,Romont (BE),-1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4421,Horn,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4426,Kesswil,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+443,Saint-Imier,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4431,Roggwil (TG),2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4436,Romanshorn,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+444,Sonceboz-Sombeval,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4441,Salmsach,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4446,Sommeri,12.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+445,Sonvilier,-1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4451,Uttwil,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+446,Tramelan,15.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4461,Amriswil,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4471,Bischofszell,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4476,Erlen,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+448,Villeret,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4486,Hauptwil-Gottshaus,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+449,Sauge,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4495,Hohentannen,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+450,Péry-La Heutte,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4501,Kradolf-Schönenberg,9.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4506,Sulgen,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4511,Zihlschlacht-Sitterdorf,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4536,Basadingen-Schlattingen,10.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4545,Diessenhofen,10.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4546,Schlatt (TG),5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4551,Aadorf,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4561,Felben-Wellhausen,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4566,Frauenfeld,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4571,Gachnang,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4590,Hüttlingen,9.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4591,Matzingen,8.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4601,Neunforn,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4606,Stettfurt,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4611,Thundorf,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4616,Uesslingen-Buch,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4621,Warth-Weiningen,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4641,Altnau,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4643,Bottighofen,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4646,Ermatingen,10.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4651,Gottlieben,20,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4656,Güttingen,9.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4666,Kemmental,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4671,Kreuzlingen,21.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4681,Langrickenbach,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4683,Lengwil,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4691,Münsterlingen,21.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4696,Tägerwilen,14.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4701,Wäldi,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4711,Affeltrangen,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4716,Bettwiesen,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4721,Bichelsee-Balterswil,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4723,Braunau,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4724,Eschlikon,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4726,Fischingen,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4741,Lommis,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4746,Münchwilen (TG),4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4751,Rickenbach (TG),8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4756,Schönholzerswilen,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4761,Sirnach,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4776,Tobel-Tägerschen,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4781,Wängi,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4786,Wilen (TG),2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4791,Wuppenau,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4801,Berlingen,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4806,Eschenz,10.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4811,Herdern,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4816,Homburg,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4821,Hüttwilen,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4826,Mammern,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4831,Müllheim,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4841,Pfyn,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4846,Raperswilen,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4851,Salenstein,7.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4864,Steckborn,12.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4871,Wagenhausen,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4881,Amlikon-Bissegg,11.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4891,Berg (TG),6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4901,Birwinken,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+491,Brüttelen,10,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4911,Bürglen (TG),11,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+492,Erlach,7.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4921,Bussnang,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+493,Finsterhennen,11.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+494,Gals,6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4941,Märstetten,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4946,Weinfelden,7.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+495,Gampelen,10.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+4951,Wigoltingen,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+496,Ins,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+497,Lüscherz,9.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+498,Müntschemier,12.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+499,Siselen,6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5,Hedingen,6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+500,Treiten,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5001,Arbedo-Castione,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5002,Bellinzona,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5003,Cadenazzo,6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5009,Isone,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+501,Tschugg,27.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5010,Lumino,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5017,Sant'Antonino,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+502,Vinelz,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5048,Acquarossa,-0.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5049,Blenio,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5050,Serravalle,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5061,Airolo,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5063,Bedretto,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5071,Dalpe,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5072,Faido,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5073,Giornico,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5076,Personico,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5077,Pollegio,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5079,Quinto,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5091,Ascona,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5096,Brione sopra Minusio,-3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5097,Brissago,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+51,Bachenbülach,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5108,Gordola,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5112,Lavertezzo,7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5113,Locarno,7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5115,Losone,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5117,Mergoscia,-1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5118,Minusio,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5120,Muralto,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5121,Orselina,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5125,Ronco sopra Ascona,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5131,Tenero-Contra,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5136,Onsernone,0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5138,Cugnasco-Gerra,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5141,Agno,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5143,Aranno,-0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5144,Arogno,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5148,Bedano,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5151,Bioggio,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5154,Bissone,15,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5160,Brusino Arsizio,-5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5161,Cademario,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5162,Cadempino,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5167,Canobbio,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5171,Caslano,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5176,Comano,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5180,Cureglia,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5186,Grancia,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5187,Gravesano,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5189,Lamone,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5192,Lugano,11.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5193,Magliaso,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5194,Manno,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5196,Massagno,12.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5198,Melide,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5199,Mezzovico-Vira,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+52,Bassersdorf,7.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5203,Morcote,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5205,Muzzano,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5206,Neggio,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5208,Origlio,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5210,Paradiso,25.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5212,Ponte Capriasca,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5214,Porza,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5216,Pura,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5221,Savosa,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5225,Sorengo,13.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5226,Capriasca,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5227,Torricella-Taverne,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5230,Vernate,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5231,Vezia,-0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5233,Vico Morcote,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5236,Collina d'Oro,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5237,Alto Malcantone,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5238,Monteceneri,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5239,Tresa,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5240,Val Mara,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5242,Balerna,18.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5249,Castel San Pietro,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5250,Chiasso,13.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5251,Coldrerio,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5254,Mendrisio,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5257,Morbio Inferiore,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5260,Novazzano,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5263,Riva San Vitale,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5266,Stabio,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5268,Vacallo,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5269,Breggia,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5281,Biasca,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5287,Riviera,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+53,Bülach,9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5304,Bosco/Gurin,40.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5307,Campo (Vallemaggia),-7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5309,Cerentino,-11.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5310,Cevio,-0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5315,Linescio,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5317,Maggia,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5323,Lavizzara,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5324,Avegno Gordevio,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+533,Bätterkinden,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+535,Deisswil bei Münchenbuchsee,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+538,Fraubrunnen,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5395,Lema,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5396,Terre di Pedemonte,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5397,Centovalli,-0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5398,Gambarogno,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5399,Verzasca,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+54,Dietlikon,7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+540,Jegenstorf,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5401,Aigle,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5402,Bex,19.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5403,Chessel,14.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5404,Corbeyrier,-1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5405,Gryon,32,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5406,Lavey-Morcles,11,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5407,Leysin,-48.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5408,Noville,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5409,Ollon,18.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+541,Iffwil,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5410,Ormont-Dessous,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5411,Ormont-Dessus,9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5412,Rennaz,18.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5413,Roche (VD),3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5414,Villeneuve (VD),7.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5415,Yvorne,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5422,Aubonne,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5423,Ballens,12.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5424,Berolle,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5425,Bière,10.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5426,Bougy-Villars,-1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5427,Féchy,25,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5428,Gimel,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5429,Longirod,-1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+543,Mattstetten,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5430,Marchissy,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5431,Mollens (VD),11.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5434,Saint-George,-0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5435,Saint-Livres,-3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5436,Saint-Oyens,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5437,Saubraz,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+544,Moosseedorf,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5451,Avenches,8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5456,Cudrefin,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5458,Faoug,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+546,Münchenbuchsee,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5464,Vully-les-Lacs,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5471,Bettens,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5472,Bournens,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5473,Boussens,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5474,La Chaux (Cossonay),-0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5475,Chavannes-le-Veyron,-11.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5476,Chevilly,11.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5477,Cossonay,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5479,Cuarnens,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5480,Daillens,-0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5481,Dizy,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5482,Eclépens,-3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5483,Ferreyres,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5484,Gollion,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5485,Grancy,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5486,L'Isle,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5487,Lussery-Villars,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5488,Mauraz,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5489,Mex (VD),4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5490,Moiry,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5491,Mont-la-Ville,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5492,Montricher,10.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5493,Orny,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5495,Penthalaz,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5496,Penthaz,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5497,Pompaples,17.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5498,La Sarraz,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5499,Senarclens,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+55,Eglisau,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5501,Sullens,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5503,Vufflens-la-Ville,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+551,Urtenen-Schönbühl,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5511,Assens,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5512,Bercher,-3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5514,Bottens,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5515,Bretigny-sur-Morrens,-0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5516,Cugy (VD),5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5518,Echallens,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+552,Utzenstorf,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5520,Essertines-sur-Yverdon,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5521,Etagnières,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5522,Fey,-1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5523,Froideville,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5527,Morrens (VD),1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5529,Oulens-sous-Echallens,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+553,Wiggiswil,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5530,Pailly,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5531,Penthéréaz,-2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5533,Poliez-Pittet,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5534,Rueyres,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5535,Saint-Barthélemy (VD),2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5537,Villars-le-Terroir,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5539,Vuarrens,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+554,Wiler bei Utzenstorf,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5540,Montilliez,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5541,Goumoëns,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5551,Bonvillars,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5552,Bullet,10.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5553,Champagne,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5554,Concise,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5555,Corcelles-près-Concise,6.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5556,Fiez,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5557,Fontaines-sur-Grandson,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5559,Giez,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+556,Zielebach,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5560,Grandevent,-1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5561,Grandson,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5562,Mauborget,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5563,Mutrux,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5564,Novalles,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5565,Onnens (VD),2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5566,Provence,83.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5568,Sainte-Croix,20.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+557,Zuzwil (BE),1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5571,Tévenon,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5581,Belmont-sur-Lausanne,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5582,Cheseaux-sur-Lausanne,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5583,Crissier,29,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5584,Epalinges,9.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5585,Jouxtens-Mézery,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5586,Lausanne,18,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5587,Le Mont-sur-Lausanne,7.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5588,Paudex,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5589,Prilly,10.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5590,Pully,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5591,Renens (VD),11.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5592,Romanel-sur-Lausanne,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+56,Embrach,22.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5601,Chexbres,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5604,Forel (Lavaux),6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5606,Lutry,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5607,Puidoux,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5609,Rivaz,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+561,Adelboden,11.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5610,Saint-Saphorin (Lavaux),0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5611,Savigny,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5613,Bourg-en-Lavaux,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+562,Aeschi bei Spiez,11.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5621,Aclens,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5622,Bremblens,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5623,Buchillon,12.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5624,Bussigny,16.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5627,Chavannes-près-Renens,31.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5628,Chigny,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5629,Clarmont,24.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+563,Frutigen,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5631,Denens,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5632,Denges,11.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5633,Echandens,21.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5634,Echichens,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5635,Ecublens (VD),12.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5636,Etoy,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5637,Lavigny,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5638,Lonay,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5639,Lully (VD),0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+564,Kandergrund,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5640,Lussy-sur-Morges,-1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5642,Morges,10.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5643,Préverenges,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5645,Romanel-sur-Morges,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5646,Saint-Prex,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5648,Saint-Sulpice (VD),33,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5649,Tolochenaz,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+565,Kandersteg,14.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5650,Vaux-sur-Morges,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5651,Villars-Sainte-Croix,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5652,Villars-sous-Yens,8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5653,Vufflens-le-Château,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5654,Vullierens,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5655,Yens,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5656,Hautemorges,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+566,Krattigen,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5661,Boulens,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5663,Bussy-sur-Moudon,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5665,Chavannes-sur-Moudon,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5669,Curtilles,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+567,Reichenbach im Kandertal,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5671,Dompierre (VD),-5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5673,Hermenches,-1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5674,Lovatens,-9.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5675,Lucens,11.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5678,Moudon,12.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5680,Ogens,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5683,Prévonloup,-2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5684,Rossenges,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5688,Syens,-5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5690,Villars-le-Comte,-1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5692,Vucherens,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5693,Montanaire,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+57,Freienstein-Teufen,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5701,Arnex-sur-Nyon,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5702,Arzier-Le Muids,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5703,Bassins,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5704,Begnins,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5705,Bogis-Bossey,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5706,Borex,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5707,Chavannes-de-Bogis,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5708,Chavannes-des-Bois,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5709,Chéserex,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+571,Beatenberg,23.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5710,Coinsins,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5711,Commugny,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5712,Coppet,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5713,Crans (VD),2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5714,Crassier,-2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5715,Duillier,-2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5716,Eysins,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5717,Founex,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5718,Genolier,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5719,Gingins,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+572,Bönigen,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5720,Givrins,0.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5721,Gland,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5722,Grens,-3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5723,Mies,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5724,Nyon,13.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5725,Prangins,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5726,La Rippe,-2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5727,Saint-Cergue,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5728,Signy-Avenex,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5729,Tannay,-1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+573,Brienz (BE),8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5730,Trélex,-6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5731,Le Vaud,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5732,Vich,8.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+574,Brienzwiler,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5741,L'Abergement,-0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5742,Agiez,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5743,Arnex-sur-Orbe,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5744,Ballaigues,25.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5745,Baulmes,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5746,Bavois,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5747,Bofflens,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5748,Bretonnières,-0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5749,Chavornay,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+575,Därligen,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5750,Les Clées,-4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5752,Croy,10.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5754,Juriens,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5755,Lignerolle,9.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5756,Montcherand,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5757,Orbe,9.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5758,La Praz,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5759,Premier,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+576,Grindelwald,37.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5760,Rances,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5761,Romainmôtier-Envy,10.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5762,Sergey,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5763,Valeyres-sous-Rances,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5764,Vallorbe,20.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5765,Vaulion,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5766,Vuiteboeuf,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+577,Gsteigwiler,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+578,Gündlischwand,19.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5785,Corcelles-le-Jorat,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+579,Habkern,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5790,Maracon,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5792,Montpreveyres,7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5798,Ropraz,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5799,Servion,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+58,Glattfelden,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+580,Hofstetten bei Brienz,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5803,Vulliens,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5804,Jorat-Menthue,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5805,Oron,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5806,Jorat-Mézières,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+581,Interlaken,13.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5812,Champtauroz,18.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5813,Chevroux,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5816,Corcelles-près-Payerne,9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5817,Grandcour,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5819,Henniez,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+582,Iseltwald,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5821,Missy,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5822,Payerne,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5827,Trey,-1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5828,Treytorrens (Payerne),0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5830,Villarzel,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5831,Valbroye,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+584,Lauterbrunnen,33.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5841,Château-d'Oex,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5842,Rossinière,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5843,Rougemont,14.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+585,Leissigen,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5851,Allaman,9.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5852,Bursinel,-2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5853,Bursins,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5854,Burtigny,12.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5855,Dully,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5856,Essertines-sur-Rolle,10.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5857,Gilly,6.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5858,Luins,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5859,Mont-sur-Rolle,0.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+586,Lütschental,11,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5860,Perroy,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5861,Rolle,12.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5862,Tartegnin,13.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5863,Vinzel,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+587,Matten bei Interlaken,7.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5871,L'Abbaye,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5872,Le Chenit,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5873,Le Lieu,0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+588,Niederried bei Interlaken,11,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5882,Chardonne,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5883,Corseaux,-2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5884,Corsier-sur-Vevey,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5885,Jongny,-1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5886,Montreux,21.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5889,La Tour-de-Peilz,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+589,Oberried am Brienzersee,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5890,Vevey,16.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5891,Veytaux,9.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5892,Blonay - Saint-Légier,-0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+59,Hochfelden,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+590,Ringgenberg (BE),12.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5902,Belmont-sur-Yverdon,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5903,Bioley-Magnoux,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5904,Chamblon,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5905,Champvent,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5907,Chavannes-le-Chêne,-8.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5908,Chêne-Pâquier,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5909,Cheseaux-Noréaz,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+591,Saxeten,-4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5910,Cronay,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5911,Cuarny,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5912,Démoret,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5913,Donneloye,-0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5914,Ependes (VD),4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5919,Mathod,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+592,Schwanden bei Brienz,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5921,Molondin,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5922,Montagny-près-Yverdon,14.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5923,Oppens,32.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5924,Orges,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5925,Orzens,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5926,Pomy,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5928,Rovray,9.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5929,Suchy,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+593,Unterseen,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5930,Suscévaz,18.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5931,Treycovagnes,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5932,Ursins,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5933,Valeyres-sous-Montagny,-1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5934,Valeyres-sous-Ursins,-0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5935,Villars-Epeney,-8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5937,Vugelles-La Mothe,16.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5938,Yverdon-les-Bains,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+5939,Yvonand,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+594,Wilderswil,13.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6,Kappel am Albis,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+60,Höri,19.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6002,Brig-Glis,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6004,Eggerberg,12.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6007,Naters,7.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6008,Ried-Brig,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6009,Simplon,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6010,Termen,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6011,Zwischbergen,-10.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+602,Arni (BE),1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6021,Ardon,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6022,Chamoson,13.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6023,Conthey,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6024,Nendaz,11.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6025,Vétroz,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+603,Biglen,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6032,Bourg-Saint-Pierre,0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6033,Liddes,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6034,Orsières,7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6035,Sembrancher,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6037,Val de Bagnes,15.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+605,Bowil,-0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6052,Bellwald,0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6054,Binn,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6056,Ernen,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6057,Fiesch,18.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6058,Fieschertal,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+606,Brenzikofen,-0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6061,Lax,12.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+607,Freimettigen,7.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6076,Obergoms,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6077,Goms,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+608,Grosshöchstetten,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6082,Ayent,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6083,Evolène,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6084,Hérémence,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6087,Saint-Martin (VS),3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6089,Vex,12.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+609,Häutligen,-1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6090,Mont-Noble,35.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+61,Hüntwangen,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+610,Herbligen,1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6101,Agarn,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6102,Albinen,-1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6104,Ergisch,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6109,Inden,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+611,Kiesen,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6110,Leuk,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6111,Leukerbad,26.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6112,Oberems,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6113,Salgesch,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6116,Varen,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6117,Guttet-Feschel,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6118,Gampel-Bratsch,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6119,Turtmann-Unterems,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+612,Konolfingen,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+613,Landiswil,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6131,Bovernier,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6133,Fully,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6134,Isérables,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6135,Leytron,7.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6136,Martigny,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6137,Martigny-Combe,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6139,Riddes,4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+614,Linden,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6140,Saillon,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6141,Saxon,10.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6142,Trient,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+615,Mirchel,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6151,Champéry,11.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6152,Collombey-Muraz,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6153,Monthey,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6154,Port-Valais,30.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6155,Saint-Gingolph,51.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6156,Troistorrents,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6157,Val-d'Illiez,9.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6158,Vionnaz,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6159,Vouvry,12.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+616,Münsingen,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+617,Niederhünigen,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6172,Bister,16.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6173,Bitsch,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6177,Grengiols,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6181,Riederalp,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+619,Oberdiessbach,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6191,Ausserberg,10.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6192,Blatten,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6193,Bürchen,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6194,Eischoll,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6195,Ferden,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6197,Kippel,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6198,Niedergesteln,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6199,Raron,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+62,Kloten,17.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+620,Oberthal,-0.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6201,Unterbäch,18.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6202,Wiler (Lötschen),7.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6203,Mörel-Filet,15.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6204,Steg-Hohtenn,10.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6205,Bettmeralp,11.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6211,Collonges,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6212,Dorénaz,-1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6213,Evionnaz,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6214,Finhaut,30.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6215,Massongex,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6217,Saint-Maurice,4.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6218,Salvan,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6219,Vernayaz,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+622,Oppligen,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6220,Vérossaz,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+623,Rubigen,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6232,Chalais,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6235,Chippis,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6238,Grône,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6239,Icogne,11.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6240,Lens,20.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6246,Saint-Léonard,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6248,Sierre,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6252,Anniviers,11.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6253,Crans-Montana,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6254,Noble-Contrée,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+626,Walkringen,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6261,Arbaz,0.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6263,Grimisuat,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6265,Savièse,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6266,Sion,9.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6267,Veysonnaz,20.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+627,Worb,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+628,Zäziwil,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6281,Baltschieder,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6282,Eisten,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6283,Embd,7.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6285,Grächen,12.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6286,Lalden,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6287,Randa,23.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6288,Saas-Almagell,17.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6289,Saas-Balen,12.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+629,Oberhünigen,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6290,Saas-Fee,27.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6291,Saas-Grund,18.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6292,St. Niklaus,8.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6293,Stalden (VS),14.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6294,Staldenried,9.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6295,Täsch,33.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6296,Törbel,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6297,Visp,24.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6298,Visperterminen,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6299,Zeneggen,22.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+63,Lufingen,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+630,Allmendingen,-1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6300,Zermatt,36.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+632,Wichtrach,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+64,Nürensdorf,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6404,Boudry,24.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6408,Cortaillod,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6413,Rochefort,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6416,Milvignes,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6417,La Grande Béroche,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6421,La Chaux-de-Fonds,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6422,Les Planchettes,-6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6423,La Sagne,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6432,La Brévine,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6433,Brot-Plamboz,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6434,Le Cerneux-Péquignot,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6435,La Chaux-du-Milieu,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6436,Le Locle,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6437,Les Ponts-de-Martel,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6451,Cornaux,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6452,Cressier (NE),1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6455,Le Landeron,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6456,Lignières,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6458,Neuchâtel,10.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6487,Val-de-Ruz,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+65,Oberembrach,74.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6504,La Côte-aux-Fées,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6511,Les Verrières,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6512,Val-de-Travers,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6513,Laténa,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+66,Opfikon,11.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6601,Aire-la-Ville,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6602,Anières,27.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6603,Avully,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6604,Avusy,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6605,Bardonnex,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6606,Bellevue,13.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6607,Bernex,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6608,Carouge (GE),14.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6609,Cartigny,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6610,Céligny,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6611,Chancy,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6612,Chêne-Bougeries,11.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6613,Chêne-Bourg,11.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6614,Choulex,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6615,Collex-Bossy,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6616,Collonge-Bellerive,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6617,Cologny,10.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6618,Confignon,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6619,Corsier (GE),5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+662,Ferenbalm,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6620,Dardagny,6.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6621,Genève,20.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6622,Genthod,-0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6623,Le Grand-Saconnex,15.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6624,Gy,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6625,Hermance,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6626,Jussy,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6627,Laconnex,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6628,Lancy,8.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6629,Meinier,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+663,Frauenkappelen,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6630,Meyrin,14.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6631,Onex,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6632,Perly-Certoux,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6633,Plan-les-Ouates,6.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6634,Pregny-Chambésy,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6635,Presinge,18.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6636,Puplinge,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6637,Russin,12,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6638,Satigny,15.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6639,Soral,12.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6640,Thônex,12.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6641,Troinex,9.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6642,Vandoeuvres,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6643,Vernier,10.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6644,Versoix,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6645,Veyrier,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+665,Gurbrü,19.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+666,Kriechenwil,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+667,Laupen,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+668,Mühleberg,7.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+669,Münchenwiler,6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+67,Rafz,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+670,Neuenegg,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6702,Boécourt,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6703,Bourrignon,-2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6704,Châtillon (JU),1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6706,Courchapoix,-1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6708,Courrendlin,9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6709,Courroux,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+671,Wileroltigen,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6710,Courtételle,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6711,Delémont,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6712,Develier,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6713,Ederswiler,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6715,Mervelier,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6716,Mettembert,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6718,Movelier,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6719,Pleigne,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6721,Rossemaison,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6722,Saulcy,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6724,Soyhières,-4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6729,Haute-Sorne,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6730,Val Terbi,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6741,Le Bémont (JU),0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6742,Les Bois,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6743,Les Breuleux,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6745,Les Enfers,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6748,Les Genevez (JU),0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6750,Lajoux (JU),6.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6751,Montfaucon,22.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6753,Muriaux,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6754,Le Noirmont,5.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6757,Saignelégier,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6758,Saint-Brais,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6759,Soubey,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6771,Alle,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6774,Boncourt,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6778,Bure,27.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6781,Coeuve,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6782,Cornol,0.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6783,Courchavon,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6784,Courgenay,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6785,Courtedoux,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6789,Fahy,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6790,Fontenais,0.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6792,Grandfontaine,-2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+68,Rorbas,7.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6800,Porrentruy,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6806,Vendlincourt,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6807,Basse-Allaine,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6808,Clos du Doubs,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6809,Haute-Ajoie,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+681,Belprahon,-0.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6810,La Baroche,0.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6811,Damphreux-Lugnez,-2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+6812,Basse-Vendline,0.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+683,Champoz,-1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+687,Corcelles (BE),0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+69,Wallisellen,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+690,Court,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+691,Crémines,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+692,Eschert,-5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+694,Grandval,5.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+696,Loveresse,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+7,Knonau,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+70,Wasterkingen,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+700,Moutier,2.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+701,Perrefitte,3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+703,Reconvilier,8.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+704,Roches (BE),-0.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+706,Saicourt,5.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+707,Saules (BE),-1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+708,Schelten,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+709,Seehof,-5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+71,Wil (ZH),4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+711,Sorvilier,7.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+713,Tavannes,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+715,Rebévelier,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+716,Petit-Val,13.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+717,Valbirse,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+72,Winkel,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+723,La Neuveville,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+724,Nods,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+726,Plateau de Diesse,8.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+731,Aegerten,9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+732,Bellmund,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+733,Brügg,5.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+734,Bühl,-1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+735,Epsach,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+736,Hagneck,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+737,Hermrigen,0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+738,Jens,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+739,Ipsach,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+740,Ligerz,3.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+741,Merzligen,0.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+742,Mörigen,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+743,Nidau,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+744,Orpund,4.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+745,Port,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+746,Safnern,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+747,Scheuren,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+748,Schwadernau,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+749,Studen (BE),12.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+750,Sutz-Lattrigen,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+751,Täuffelen,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+754,Walperswil,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+755,Worben,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+756,Twann-Tüscherz,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+761,Därstetten,0.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+762,Diemtigen,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+763,Erlenbach im Simmental,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+766,Oberwil im Simmental,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+767,Reutigen,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+768,Spiez,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+769,Wimmis,5.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+770,Stocken-Höfen,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+782,Guttannen,4.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+783,Hasliberg,9.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+784,Innertkirchen,6.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+785,Meiringen,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+786,Schattenhalb,14.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+791,Boltigen,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+792,Lenk,12.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+793,St. Stephan,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+794,Zweisimmen,8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+8,Maschwanden,5.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+81,Bachs,6.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+82,Boppelsen,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+83,Buchs (ZH),7.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+84,Dällikon,5.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+841,Gsteig,12.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+842,Lauenen,6.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+843,Saanen,20.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+85,Dänikon,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+852,Guggisberg,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+853,Rüschegg,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+855,Schwarzenburg,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+86,Dielsdorf,9.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+861,Belp,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+863,Burgistein,-1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+866,Gerzensee,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+867,Gurzelen,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+868,Jaberg,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+869,Kaufdorf,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+87,Hüttikon,5.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+870,Kehrsatz,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+872,Kirchdorf (BE),3.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+877,Niedermuhlern,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+879,Riggisberg,9.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+88,Neerach,1.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+880,Rüeggisberg,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+883,Seftigen,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+884,Toffen,4.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+885,Uttigen,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+886,Wattenwil,3.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+888,Wald (BE),1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+889,Thurnen,5.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+89,Niederglatt,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+9,Mettmenstetten,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+90,Niederhasli,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+901,Eggiwil,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+902,Langnau im Emmental,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+903,Lauperswil,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+904,Röthenbach im Emmental,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+905,Rüderswil,2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+906,Schangnau,0.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+907,Signau,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+908,Trub,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+909,Trubschachen,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+91,Niederweningen,4.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+92,Oberglatt,10,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+921,Amsoldingen,2.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+922,Blumenstein,3.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+923,Buchholterberg,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+924,Eriz,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+925,Fahrni,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+927,Heiligenschwendi,10.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+928,Heimberg,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+929,Hilterfingen,3.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+93,Oberweningen,3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+931,Homberg,0.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+932,Horrenbach-Buchen,2.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+934,Oberhofen am Thunersee,8.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+935,Oberlangenegg,1.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+936,Pohlern,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+938,Sigriswil,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+939,Steffisburg,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+94,Otelfingen,6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+940,Teuffenthal (BE),-5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+941,Thierachern,1.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+942,Thun,3.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+943,Uebeschi,4.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+944,Uetendorf,2.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+945,Unterlangenegg,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+946,Wachseldorn,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+948,Forst-Längenbühl,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+95,Regensberg,4.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+951,Affoltern im Emmental,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+952,Dürrenroth,3.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+953,Eriswil,1.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+954,Huttwil,8.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+955,Lützelflüh,0.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+956,Rüegsau,2.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+957,Sumiswald,6.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+958,Trachselwald,0.8,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+959,Walterswil (BE),2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+96,Regensdorf,8.1,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+960,Wyssachen,10,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+97,Rümlang,7.2,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+971,Attiswil,1.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+972,Berken,17.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+973,Bettenhausen,2.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+975,Farnern,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+976,Graben,2.4,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+977,Heimenhausen,1.3,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+979,Herzogenbuchsee,5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+98,Schleinikon,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+980,Inkwil,2.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+981,Niederbipp,15.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+982,Niederönz,1.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+983,Oberbipp,4.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+985,Ochlenberg,1.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+987,Rumisberg,2.6,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+988,Seeberg,3.9,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+989,Thörigen,3.5,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+99,Schöfflisdorf,1.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+990,Walliswil bei Niederbipp,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+991,Walliswil bei Wangen,0,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+992,Wangen an der Aare,8.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
+995,Wiedlisbach,4.7,polg2025_04_06,04.06.2025,ch_01_02_01a_var,veraenderungpopwand
